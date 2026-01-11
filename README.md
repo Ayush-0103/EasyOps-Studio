@@ -2,7 +2,7 @@
 
 **EasyOps Studio** is a business support and digital services platform designed to help startups and growing businesses simplify their creative and operational workload. We act as an extended support team, enabling companies to focus on growth while we handle essential execution tasks.
 
-🌐 Website: https://essyopsstudio.lovable.app/
+🌐 Website: https://easy-ops-studio.vercel.app/
 
 ---
 
@@ -63,15 +63,14 @@ To make business operations easy and accessible by providing high-quality creati
 
 ## 📞 Contact
 
-For collaborations, support, or inquiries:
+For collaborations, support, or inquiries:📧 easyopsstudio@gmail.com
 
 **Ayush Saxena**  
 Founder – EasyOps Studio  
 
-📧 Email: your-email@example.com  
-📞 Phone: 9315596499  
-🌐 Website: https://essyopsstudio.lovable.app/  
-🔗 LinkedIn: your-linkedin-profile  
+📧 Email: easyopsstudio@gmail.com
+🌐 Website: https://easy-ops-studio.vercel.app/
+
 
 ---
 
