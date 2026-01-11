@@ -1,10 +1,10 @@
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
+import Navbar from "@/components/layout/Header";
+import Footer from "@/components/layout/Footer";
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Sparkles, Mail, Phone, MessageCircle } from "lucide-react";
 
 import dsaGuideImage from "@/assets/dsa-guide.jpeg";
-import internshipsImage from "@/assets/government-internships.jpg";
+import internshipsImage from "@/assets/government-internships.jpeg";
 
 const products = [
   {
