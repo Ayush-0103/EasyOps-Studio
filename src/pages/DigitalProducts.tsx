@@ -11,13 +11,13 @@ const products = [
     title: "DSA Complete Guide - Basic to Advanced",
     description: "Master Data Structures & Algorithms with this comprehensive guide. From scratch to advanced concepts, perfect for interview preparation and competitive programming.",
     image: dsaGuideImage,
-    buyLink: "https://ayushsaxena7.gumroad.com/l/wqlrk",
+    buyLink: "https://easyopsstudio.gumroad.com/l/wqlrk",
   },
   {
     title: "List of Government Internships 2026",
     description: "Comprehensive list of government internship opportunities in 2026. Get ahead in your career with curated opportunities across various government departments.",
     image: internshipsImage,
-    buyLink: "https://ayushsaxena7.gumroad.com/l/astdzq",
+    buyLink: "https://easyopsstudio.gumroad.com/l/astdzq",
   },
 ];
 
